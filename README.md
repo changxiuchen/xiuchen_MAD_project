@@ -1,3 +1,22 @@
-# mad_project
+# \# Flutter EV Charging App
 
-A new Flutter project.
+# A Flutter application demonstration:
+
+# \- REST API integration
+
+# \- Stateful widgets
+
+# —
+
+# —
+
+# Navigation
+
+# GetX state management (if used)
+
+# \## Getting Started
+
+# flutter pub get
+
+# flutter run
+
